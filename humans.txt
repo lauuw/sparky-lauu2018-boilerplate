@@ -1,0 +1,14 @@
+/* AUTHOR */
+Jacob Donald Lett
+Site: https://bootstrapcreative.com/contact-us/
+Twitter: @BootstrapC
+Location: Detroit, Michigan, USA.
+                                   				
+/* THANKS */						
+Twitter Bootstrap 3,GitHub, Stack Overflow
+
+/* SITE */                         
+Last update: 1/5/2017                 
+Standards: HTML5, CSS3
+Components: 
+Software: 

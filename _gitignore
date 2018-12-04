@@ -1,0 +1,13 @@
+.tmp
+.sass-cache
+node_modules
+templates/config.php
+
+# OS generated files.
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
